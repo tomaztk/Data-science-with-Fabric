@@ -2,8 +2,6 @@
 Data science with Microsoft Fabric
 
 
-<img src="figures/UURlogo.jpg" align="right" width="300" />
-
 <!-- badges: start -->
 ![](http://img.shields.io/badge/DataScienceWithFabric.svg)
 
@@ -11,14 +9,11 @@ Data science with Microsoft Fabric
 <!-- badges: end -->
 
 
-
 ## Feature Summary
 
-  - Mixed Cases ([blog post](https://tomaztsql.wordpress.com/2020/10/17/little-useless-useful-r-function/))
-  - DataFrame maker ([blog post](https://tomaztsql.wordpress.com/2020/10/20/little-useless-useful-r-function-dataframe-maker/))
-  - R Job Title generator ([blog post](https://tomaztsql.wordpress.com/2020/10/24/little-useless-useful-r-function-r-jobs-title-generator/))
-
-
+  - ROC curve and data distribution ([Notebook](https://github.com/tomaztk/Data-science-with-Fabric/blob/main/Notebooks/01_ROC_Distribution.ipynb))
+  - Comparing SVD, t-SNE, PCA, LLE, Isomap and Autoencoder ([Notebook](https://github.com/tomaztk/Data-science-with-Fabric/blob/main/Notebooks/02_Compare_SVC_SNE_PCA_LLE.ipynb))
+  - Benchmarking the wrangling functions against large datasets ([Notebook](https://github.com/tomaztk/Data-science-with-Fabric/blob/main/Notebooks/06-Benchmarking-wrangling-functions.ipynb))
 
 
 ## Cloning the repository
