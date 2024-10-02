@@ -1,7 +1,7 @@
 # Data Science With Microsoft Fabric
 Data science with Microsoft Fabric.
 
-
+![](/imgs/Fabric_256.png)
 
 <!-- badges: start -->
 ![](http://img.shields.io/badge/DataScienceWithFabric.svg)
